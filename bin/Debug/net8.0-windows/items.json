@@ -1,0 +1,38 @@
+[
+  {
+    "ShortName": "New Item",
+    "Category": "Комикс",
+    "Price": 12,
+    "Description": "вымыв",
+    "ImagePaths": [],
+    "IsExpensive": false
+  },
+  {
+    "ShortName": "New Item",
+    "Category": "Комикс",
+    "Price": 21,
+    "Description": "123ывыы",
+    "ImagePaths": [],
+    "IsExpensive": false
+  },
+  {
+    "ShortName": "",
+    "Category": null,
+    "Price": 0,
+    "Description": null,
+    "ImagePaths": [
+      "C:\\Users\\HP\\Pictures\\Screenshots\\Снимок экрана 2026-04-04 143557.png"
+    ],
+    "IsExpensive": false
+  },
+  {
+    "ShortName": "ымыв",
+    "Category": "Комикс",
+    "Price": 1000,
+    "Description": "йафцйац",
+    "ImagePaths": [
+      "C:\\Users\\HP\\Pictures\\Screenshots\\Снимок экрана 2026-04-04 143557.png"
+    ],
+    "IsExpensive": true
+  }
+]

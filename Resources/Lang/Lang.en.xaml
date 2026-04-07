@@ -1,0 +1,29 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+	<s:String x:Key="m_AppTitle">ComicVerse Store</s:String>
+	<s:String x:Key="m_Search">Search...</s:String>
+	<s:String x:Key="m_Category">Category:</s:String>
+	<s:String x:Key="m_Price">Price:</s:String>
+	<s:String x:Key="m_Add">Add Item</s:String>
+	<s:String x:Key="m_Delete">Delete</s:String>
+	<s:String x:Key="m_AdminMode">Admin Mode</s:String>
+	<s:String x:Key="m_ClientMode">Client</s:String>
+	<s:String x:Key="m_ImagePath">Image Path:</s:String>
+	<s:String x:Key="m_Save">Save</s:String>
+	<s:String x:Key="m_Name">Name:</s:String>
+	<s:String x:Key="cat_Manga">Manga</s:String>
+	<s:String x:Key="cat_Comic">Comic</s:String>
+	<s:String x:Key="cat_All">All</s:String>
+	<s:String x:Key="m_Currency">Byn</s:String>
+    <s:String x:Key="m_Profile">Profile</s:String>
+    <s:String x:Key="m_UserNameLabel">User Name:</s:String>
+    <s:String x:Key="m_InterfaceLang">Interface Language:</s:String>
+    <s:String x:Key="m_ThemeLabel">Theme:</s:String>
+    <s:String x:Key="m_ThemeLight">Light</s:String>
+    <s:String x:Key="m_ThemeDark">Dark</s:String>
+    <s:String x:Key="m_ThemePink">Pink</s:String>
+    <s:String x:Key="m_Catalog">To catalog list</s:String>
+    <s:String x:Key="m_Description">Description:</s:String>
+    <s:String x:Key="m_Back">Back</s:String>
+</ResourceDictionary>

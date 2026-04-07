@@ -1,0 +1,11 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="WindowBgColor">#FFF0F5</Color>
+    <Color x:Key="CardBgColor">#FFFFFF</Color>
+    <Color x:Key="PrimaryTextColor">#4A148C</Color>
+    <Color x:Key="AccentColor">#FF69B4</Color>
+    <SolidColorBrush x:Key="WindowBgBrush" Color="{StaticResource WindowBgColor}"/>
+    <SolidColorBrush x:Key="CardBgBrush" Color="{StaticResource CardBgColor}"/>
+    <SolidColorBrush x:Key="MainTextBrush" Color="{StaticResource PrimaryTextColor}"/>
+    <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource AccentColor}"/>
+</ResourceDictionary>

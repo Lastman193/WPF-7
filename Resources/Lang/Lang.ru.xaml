@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+	<s:String x:Key="m_AppTitle">Магазин ComicVerse</s:String>
+	<s:String x:Key="m_Search">Поиск...</s:String>
+	<s:String x:Key="m_Category">Категория:</s:String>
+	<s:String x:Key="m_Price">Цена:</s:String>
+	<s:String x:Key="m_Add">Добавить товар</s:String>
+	<s:String x:Key="m_Delete">Удалить</s:String>
+	<s:String x:Key="m_AdminMode">Режим Админа</s:String>
+	<s:String x:Key="m_ClientMode">Клиент</s:String>
+	<s:String x:Key="m_ImagePath">Изображение:</s:String>
+	<s:String x:Key="m_Save">Сохранить</s:String>
+	<s:String x:Key="m_Name">Название:</s:String>
+	<s:String x:Key="cat_Manga">Манга</s:String>
+	<s:String x:Key="cat_Comic">Комикс</s:String>
+	<s:String x:Key="cat_All">Все</s:String>
+	<s:String x:Key="m_Currency">Бун</s:String>
+    <s:String x:Key="m_Profile">Личный кабинет</s:String>
+    <s:String x:Key="m_UserNameLabel">Имя пользователя:</s:String>
+    <s:String x:Key="m_InterfaceLang">Язык интерфейса:</s:String>
+    <s:String x:Key="m_ThemeLabel">Тема оформления:</s:String>
+    <s:String x:Key="m_ThemeLight">Светлая</s:String>
+    <s:String x:Key="m_ThemeDark">Темная</s:String>
+    <s:String x:Key="m_ThemePink">Розовая</s:String>
+    <s:String x:Key="m_Catalog">К списку товаров</s:String>
+    <s:String x:Key="m_Description">Описание:</s:String>
+    <s:String x:Key="m_Back">Назад</s:String>
+</ResourceDictionary>
